@@ -29,26 +29,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#f0e9d6", // page background
-          lightgray: "#faf6ed", //borders
-          gray: "#484847", //graph links, heavier borders
-          darkgray: "#010101", // body text
-          dark: "#2b2b2b", // header text and icons
-          secondary: "#0f9015", // link colour, current graph node
-          tertiary: "#5cb25d", // hover states and visited, graph nodes
-          highlight: "rgba(143, 159, 169, 0.15)", // internal link background, highlighted text, highlighted lines of code
-          textHighlight: "#fff2368", // markdown highlighted text background
+          light: "#f9f7f0", // page background (soft warm off-white)
+          lightgray: "#c9ccd1", // borders, subtle lines
+          gray: "#626d7d", // secondary text, graph links
+          darkgray: "#1a1a1a", // main body text
+          dark: "#17263e", // headers, icons, primary text accent (dark blue)
+          secondary: "#17263e", // links, current graph node (dark blue)
+          tertiary: "#dbbf64", // hover states, visited nodes (lighter gold)
+          highlight: "rgba(23, 38, 62, 0.15)", // subtle dark-blue highlight
+          textHighlight: "#c9ccd1", // markdown highlighted text
         },
         darkMode: {
-          light: "#1e1e1eff",
-          lightgray: "#505050",
-          gray: "#646464",
-          darkgray: "#f0e9d6",
-          dark: "#f0e9d6",
-          secondary: "#17263e",
-          tertiary: "#d5af36",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff2368",
+          light: "#1a1a1a", // page background
+          lightgray: "#2c2f38", // borders, subtle dividers
+          gray: "#626d7d", // secondary text, graph links
+          darkgray: "#c9ccd1", // body text
+          dark: "#ffffff", // header text, icons
+          secondary: "#d5af36", // links, current graph node (bright gold)
+          tertiary: "#17263e", // hover states, visited nodes (lighter gold)
+          highlight: "rgba(213, 175, 54, 0.15)", // subtle gold highlight
+          textHighlight: "#dbc98d", // markdown highlighted text
         },
       },
     },
