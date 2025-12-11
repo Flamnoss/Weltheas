@@ -1,5 +1,7 @@
 > [!danger] Rewrite needed 
 > This article is still a work in progress
+
+- - -
 #### "What is Sworn on Coin Binds All.”
 
 ## Fleeing for terror
