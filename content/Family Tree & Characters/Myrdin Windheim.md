@@ -5,6 +5,7 @@ tags:
   - Windheim
   - family
 ---
+- - -
 ## Information
 ### Basic Information
 - **Name**: Myrdin Windheim (/mi:ʀdin/ /ˈwɪndhaɪm/)
@@ -39,6 +40,11 @@ tags:
 - **Eye Colour**: Dark Green
 - **Hair Colour**: Olive Brown
 
+**Head view:**  
+![[Myrdin-head.png|100x100]]
+
+**Skin view:**  
+- - -
 ## Lore
 ### Early Life
 `[WIP]`

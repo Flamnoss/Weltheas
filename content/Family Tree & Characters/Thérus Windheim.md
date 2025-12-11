@@ -5,6 +5,7 @@ tags:
   - Windheim
   - family
 ---
+- - -
 ## Information
 ### Basic Information
 - **Name**: Thérus Windheim (/'θeʀys/ /ˈwɪndhaɪm/)
@@ -39,5 +40,11 @@ tags:
 - **Eye Colour**: Hazel Brown
 - **Hair Colour**: Bald (by choice)(transparent?)
 
+**Head view:**  
+![[Therus-head.png|100x100]]
+
+**Skin view:**  
+
+- - -
 ## Lore
 

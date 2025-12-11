@@ -70,13 +70,13 @@ Maeren
 † ^rRG0LU5O
 
 ## Embedded Files
-f58b7016a3f0601899bf18daf600fc0a84d9a8cc: [[Myrdin-head.png]]
+f58b7016a3f0601899bf18daf600fc0a84d9a8cc: [[public/Assets/Family-Tree/Heads/Myrdin-head.png]]
 
-e37a6a7232402d2687ff50771c597bbc399d6b12: [[Luna-head.png]]
+e37a6a7232402d2687ff50771c597bbc399d6b12: [[public/Assets/Family-Tree/Heads/Luna-head.png]]
 
-1d0e0953f10b429851c10e88c8db78da8d52a8a0: [[William-head.png]]
+1d0e0953f10b429851c10e88c8db78da8d52a8a0: [[public/Assets/Family-Tree/Heads/William-head.png]]
 
-e57a81363f9b4996dd392e781ab568cac3a1ec1f: [[Therus-head.png]]
+e57a81363f9b4996dd392e781ab568cac3a1ec1f: [[public/Assets/Family-Tree/Heads/Therus-head.png]]
 
 %%
 ## Drawing
