@@ -12,8 +12,9 @@ tags:
 
 Hello folks!
 
-You’ve decided to add something to the wiki, awesome!
-In here, you’ll find all kinds of templates that decide how a file should start!
+You’ve decided to add something to the wiki, awesome!  
+In here, you’ll find all kinds of templates that decide how a file should start!  
+Copy the template and place it inside the file.
 
 ### General template:
 ```

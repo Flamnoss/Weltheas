@@ -139,14 +139,31 @@ Place pages in the correct subfolder under `/content/`, such as:
 ```
 
 ### Callouts (Important Notes, Warnings, Rewrite Notices)
+
 For all different kinds of callouts, please refer back to this handy wiki page :)
 https://help.obsidian.md/callouts
-
 Example:
 ```md
 > [!info] <TITLE>
 > Lorem ipsum dolor sit amet
 ```
+
+**All callouts** must be placed on top of the page. 
+For example:
+```
+---
+title: <page title>
+draft: false <either true or false>
+tags:
+  - <tags>
+---
+- - -
+> [!info] <CALLOUT TITLE>
+> Lorem ipsum dolor sit amet
+- - -
+blablabla :)
+```
+
 
 ## 6. After You Submit a Pull Request
 A maintainer will:
