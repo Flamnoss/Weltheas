@@ -3,7 +3,6 @@ title: Thérus Windheim
 draft: false
 tags:
   - Windheim
-  - family
 ---
 - - -
 ## Information
@@ -34,7 +33,7 @@ tags:
 
 **Family tree**: [[Family Tree]] for all relations
 ### Physical Description
-- **Race**: Welthian
+- **Race**: Human
 - **Height**: 178cm
 - **Weight**: 68kg
 - **Eye Colour**: Hazel Brown

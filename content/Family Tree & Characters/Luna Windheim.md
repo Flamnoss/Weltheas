@@ -3,7 +3,6 @@ title: Luna Windheim
 draft: false
 tags:
   - Windheim
-  - family
 ---
 - - -
 ## Information
@@ -19,7 +18,7 @@ tags:
 - **Nationality**: Welthian
 - **Occupation**: TBD
 ### Genealogical Information 
-- **Family**: Windheim
+- **Family**: Human
 - **Marital Status**: Not married
 - **Children**: None
 - **Parents**: 
