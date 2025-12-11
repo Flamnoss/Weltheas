@@ -1,3 +1,14 @@
+---
+title: Templates
+draft: false
+tags:
+  - Guides
+---
+- - -
+> [!danger] Rewrite needed 
+> This article is still a work in progress
+
+- - -
 
 Hello folks!
 
