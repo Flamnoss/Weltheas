@@ -43,6 +43,7 @@ tags:
 ![[Myrdin-head.png|100x100]]
 
 **Skin view:**  
+![[Myrdin.png|150x200]]
 - - -
 ## Lore
 ### Early Life
