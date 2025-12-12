@@ -2,7 +2,7 @@
 title: Ezekiel Kezra
 draft: false
 tags:
-  - <Kezra>
+  - Kezra
 publish: true
 ---
 - - -
@@ -22,10 +22,10 @@ publish: true
 - **Marital Status**: Not Married
 - **Children**: None
 - **Parents**: 
-	- <Unkown>
-	- <Unkown>
+	- Unkown
+	- Unkown
 - **Siblings**: 
-	- <None>
+	- None
 **Family tree**: [[Family Tree]] for all relations
 ### Physical Description
 - **Race**: Human
