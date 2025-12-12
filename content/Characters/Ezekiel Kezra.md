@@ -1,8 +1,9 @@
 ---
-title: <Ezekiel Kezra>
+title: Ezekiel Kezra
 draft: false
 tags:
   - <Kezra>
+publish: true
 ---
 - - -
 ## Information
